@@ -1,0 +1,11 @@
+quiet: false
+start_in_project_dir: true
+project_dir: .
+
+commands:
+  install: go install github.com/pidpawel/2lazy/cmd/2lazy
+  echo: echo
+  bash: bash
+  sleep: sleep
+  pwd: pwd
+  exit: ls -l unknown.png
