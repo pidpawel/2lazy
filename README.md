@@ -5,7 +5,7 @@
   <br>
 </h1>
 
-2lazy is a tool allowing you to create and use project specific command aliases.
+`2lazy` is a tool allowing you to create and use project specific command aliases.
 
 [1build](https://github.com/gopinath-langote/1build/) is a similar tool with a different execution model. `1build` allows you to run multiple commands in a single run, but offers no way of interacting with them. `2lazy` allows you to specify additional arguments for your aliases and fully interact with them (stdout, stderr, stdin and exit code are redirected) but you can only run one command per invocation.
 
